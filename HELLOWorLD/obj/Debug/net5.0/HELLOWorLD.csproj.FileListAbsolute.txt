@@ -1,0 +1,16 @@
+C:\Users\Mr.Laptop point\HELLOWorLD\bin\Debug\net5.0\HELLOWorLD.exe
+C:\Users\Mr.Laptop point\HELLOWorLD\bin\Debug\net5.0\HELLOWorLD.deps.json
+C:\Users\Mr.Laptop point\HELLOWorLD\bin\Debug\net5.0\HELLOWorLD.runtimeconfig.json
+C:\Users\Mr.Laptop point\HELLOWorLD\bin\Debug\net5.0\HELLOWorLD.runtimeconfig.dev.json
+C:\Users\Mr.Laptop point\HELLOWorLD\bin\Debug\net5.0\HELLOWorLD.dll
+C:\Users\Mr.Laptop point\HELLOWorLD\bin\Debug\net5.0\ref\HELLOWorLD.dll
+C:\Users\Mr.Laptop point\HELLOWorLD\bin\Debug\net5.0\HELLOWorLD.pdb
+C:\Users\Mr.Laptop point\HELLOWorLD\obj\Debug\net5.0\HELLOWorLD.csprojAssemblyReference.cache
+C:\Users\Mr.Laptop point\HELLOWorLD\obj\Debug\net5.0\HELLOWorLD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr.Laptop point\HELLOWorLD\obj\Debug\net5.0\HELLOWorLD.AssemblyInfoInputs.cache
+C:\Users\Mr.Laptop point\HELLOWorLD\obj\Debug\net5.0\HELLOWorLD.AssemblyInfo.cs
+C:\Users\Mr.Laptop point\HELLOWorLD\obj\Debug\net5.0\HELLOWorLD.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Laptop point\HELLOWorLD\obj\Debug\net5.0\HELLOWorLD.dll
+C:\Users\Mr.Laptop point\HELLOWorLD\obj\Debug\net5.0\ref\HELLOWorLD.dll
+C:\Users\Mr.Laptop point\HELLOWorLD\obj\Debug\net5.0\HELLOWorLD.pdb
+C:\Users\Mr.Laptop point\HELLOWorLD\obj\Debug\net5.0\HELLOWorLD.genruntimeconfig.cache
