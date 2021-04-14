@@ -1,0 +1,13 @@
+C:\Users\Mr.Laptop point\Desktop\csharp-4\q58\q58\bin\Debug\netcoreapp3.1\q58.exe
+C:\Users\Mr.Laptop point\Desktop\csharp-4\q58\q58\bin\Debug\netcoreapp3.1\q58.deps.json
+C:\Users\Mr.Laptop point\Desktop\csharp-4\q58\q58\bin\Debug\netcoreapp3.1\q58.runtimeconfig.json
+C:\Users\Mr.Laptop point\Desktop\csharp-4\q58\q58\bin\Debug\netcoreapp3.1\q58.runtimeconfig.dev.json
+C:\Users\Mr.Laptop point\Desktop\csharp-4\q58\q58\bin\Debug\netcoreapp3.1\q58.dll
+C:\Users\Mr.Laptop point\Desktop\csharp-4\q58\q58\bin\Debug\netcoreapp3.1\q58.pdb
+C:\Users\Mr.Laptop point\Desktop\csharp-4\q58\q58\obj\Debug\netcoreapp3.1\q58.csprojAssemblyReference.cache
+C:\Users\Mr.Laptop point\Desktop\csharp-4\q58\q58\obj\Debug\netcoreapp3.1\q58.AssemblyInfoInputs.cache
+C:\Users\Mr.Laptop point\Desktop\csharp-4\q58\q58\obj\Debug\netcoreapp3.1\q58.AssemblyInfo.cs
+C:\Users\Mr.Laptop point\Desktop\csharp-4\q58\q58\obj\Debug\netcoreapp3.1\q58.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Laptop point\Desktop\csharp-4\q58\q58\obj\Debug\netcoreapp3.1\q58.dll
+C:\Users\Mr.Laptop point\Desktop\csharp-4\q58\q58\obj\Debug\netcoreapp3.1\q58.pdb
+C:\Users\Mr.Laptop point\Desktop\csharp-4\q58\q58\obj\Debug\netcoreapp3.1\q58.genruntimeconfig.cache
